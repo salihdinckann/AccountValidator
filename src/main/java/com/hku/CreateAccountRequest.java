@@ -4,7 +4,7 @@ public class CreateAccountRequest {
     private String firstName;
     private String lastName;
     private String email;
-    private String dateOfBirth; // dd/mm/yyyy
+    private String dateOfBirth;   // dd/mm/yyyy
     private String password;
     private String confirmPassword;
 
